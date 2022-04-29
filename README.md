@@ -1,3 +1,17 @@
+## My summary
+
+Data Scientist with 4 years of R&D work experience in NLP, unstructured data, & prototyping, from inception to deployment. Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with strong statistical background.
+
+
+## Education
+
+ MS, 2018
+Carnegie Mellon University
+
+B.Tech., 2017
+Delhi Technological University
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nkay28/nkay28.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
