@@ -1,7 +1,10 @@
 ## My summary
 
 Data Scientist with 4 years of R&D work experience in NLP, unstructured data, & prototyping, from inception to deployment. Proficient with data pipeline, ELT, ML lifecycle, models & analytics, with strong statistical background.
-
+My interests include: 
+- NLP
+- Protoyping 
+- POC
 
 ## Education
 
